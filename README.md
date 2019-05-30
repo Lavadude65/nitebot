@@ -1,2 +1,2 @@
-# nitebot
-Nitebot for discord
+# NiteBot
+NiteBot Repostiry
