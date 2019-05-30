@@ -1,0 +1,2 @@
+# nitebot
+Nitebot for discord
