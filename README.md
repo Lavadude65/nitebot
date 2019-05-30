@@ -1,2 +1,2 @@
 # NiteBot
-NiteBot Repostiry
+NiteBot Repository
