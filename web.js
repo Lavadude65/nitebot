@@ -195,4 +195,4 @@ if(cmd === `${prefix}server-user-count`) {
 
 
 
-bot.login("NTc4MTU5NDIyMjkyMDk5MDcy.XO3Big.5p_X1MYkEM2havYssmco1kAdIlM");
+bot.login("secret_token");
